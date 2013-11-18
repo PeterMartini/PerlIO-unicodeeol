@@ -15,3 +15,6 @@ MYMETA.yml
 MYMETA.json
 nytprof.out
 pm_to_blib
+unicodeeol.o
+unicodeeol.c
+unicodeeol.bs
