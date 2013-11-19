@@ -3,10 +3,10 @@ normalizing line endings.  It requires Perl version 5.7.3 or later.
 
 * Installation
 
-PerlIO::eol uses the standard perl module install process:
+PerlIO::unicodeeol uses the standard perl module install process:
 
 perl Makefile.PL
-make			# or 'nmake' on Win32; see notes below
+make
 make test
 make install
 
