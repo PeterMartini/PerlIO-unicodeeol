@@ -1,3 +1,7 @@
+[Changes for 0.03 - 2014-02-17]
+
+* Remove 'use utf8;' from tests; its actually counterproductive
+
 [Changes for 0.01 - 2013-11-19]
 
 * Initial release to CPAN.
