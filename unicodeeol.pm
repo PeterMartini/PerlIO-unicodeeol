@@ -20,7 +20,7 @@ PerlIO::unicodeeol - PerlIO layer for normalizing line endings from \R to \n
 
 =head1 VERSION
 
-This document describes version 0.01 of PerlIO::unicodeeol
+This document describes version 0.03 of PerlIO::unicodeeol
 
 =head1 SYNOPSIS
 
