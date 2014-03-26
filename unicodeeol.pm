@@ -4,7 +4,8 @@ use 5.007003;
 use XSLoader;
 use Exporter;
 
-our $VERSION = '0.03';
+our $VERSION = "1.000";
+$VERSION = eval $VERSION;
 our @ISA = qw(Exporter);
 
 # symbols to export on request
@@ -20,7 +21,7 @@ PerlIO::unicodeeol - PerlIO layer for normalizing line endings from \R to \n
 
 =head1 VERSION
 
-This document describes version 0.03 of PerlIO::unicodeeol
+This document describes version 1.0 of PerlIO::unicodeeol
 
 =head1 SYNOPSIS
 

@@ -1,3 +1,7 @@
+[Changes for 1.0  - 2014-03-26]
+
+* Cosmetic - I just wanted to officially bump this to 1.0
+
 [Changes for 0.03 - 2014-02-17]
 
 * Remove 'use utf8;' from tests; its actually counterproductive
