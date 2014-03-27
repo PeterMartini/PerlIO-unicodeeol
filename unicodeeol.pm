@@ -4,7 +4,7 @@ use 5.007003;
 use XSLoader;
 use Exporter;
 
-our $VERSION = "1.000";
+our $VERSION = "1.001";
 $VERSION = eval $VERSION;
 our @ISA = qw(Exporter);
 
