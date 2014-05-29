@@ -1,3 +1,7 @@
+[Changes for 1.002  - 2014-05-28]
+
+* Adding a repository into the metafiles.  No code changes.
+
 [Changes for 1.001  - 2014-03-26]
 
 * Oh boy was this obnoxious.  5.8.9 didn't like 1.000 as

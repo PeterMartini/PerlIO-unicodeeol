@@ -8,5 +8,6 @@ abstract     ('PerlIO layer for normalizing line endings matching \R to \n');
 license      ('perl');
 version_from ('unicodeeol.pm');
 requires     (perl => '5.7.3');
+repository   ('git://github.com/PeterMartini/PerlIO-unicodeeol.git');
 
 WriteAll;
